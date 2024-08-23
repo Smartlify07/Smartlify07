@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-web-smartlify.netlify.app/](https://portfolio-web-smartlify.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-web-smartlify.netlify.app/](https://obinna-anosike.vercel.app/)
 
 - 💬 Ask me about **React, javascript**
 
