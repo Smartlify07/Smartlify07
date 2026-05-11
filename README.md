@@ -6,7 +6,7 @@ Frontend Engineer
 
 ## 🚀 What I'm currently building
 
-I'm working on [Gvu Votes](https://gvu-voting-platform.vercel.app) — a live voting platform. Go check it out.
+I'm working on [Gvu Votes](https://gvu-voting-platform.vercel.app) - a live voting platform. Go check it out.
 
 ---
 
@@ -23,17 +23,17 @@ I'm working on [Gvu Votes](https://gvu-voting-platform.vercel.app) — a live vo
 
 ## 🧠 What I'm interested in
 
-I'm really drawn to product engineering and backend engineering. There's something about understanding the full picture — from the UI all the way down — that I find exciting.
+I'm really drawn to product engineering and backend engineering. There's something about understanding the full picture from the UI all the way down, that I find exciting.
 
 ---
 
 ## ⚽ Outside the code
 
-I love football. I support Chelsea and Man City — yes, both, and I'm completely at peace with it.
+I love football. I support Chelsea and Man City, yes both, and I'm completely at peace with it.
 
 I play football, volleyball, and a bit of basketball (not so much on the last one). I don't know why, but chess just isn't for me.
 
-I love watching tactical highlights and match analysis — I even do a bit of my own commentary. And I read my Bible regularly. It's genuinely refreshing.
+I love watching tactical highlights and match analysis, I even do a bit of my own commentary. And I read my Bible regularly. It's genuinely refreshing.
 
 ---
 
